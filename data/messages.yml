@@ -1,0 +1,16 @@
+- "Sample 1":
+    demande: null # Use the value of a select option defined in the app/content_types/messages.rb file.
+    contents: "Et dolores nesciunt saepe. Perferendis id et labore. Sit vitae dolore porro culpa quibusdam eum."
+
+- "Sample 2":
+    demande: null # Use the value of a select option defined in the app/content_types/messages.rb file.
+    contents: "Commodi omnis inventore consectetur rerum similique. Sunt earum fugit doloribus quos alias sapiente. Alias quia sit earum veritatis accusantium est."
+
+- "Sample 3":
+    demande: null # Use the value of a select option defined in the app/content_types/messages.rb file.
+    contents: "Et consectetur voluptate accusamus ut qui quisquam. Unde ea non laboriosam magnam eum. Sit eligendi modi impedit omnis. Fugiat eaque dolor et sed enim. Culpa soluta hic placeat mollitia et molestiae."
+
+- "Sample 4":
+    demande: null # Use the value of a select option defined in the app/content_types/messages.rb file.
+    contents: "Quidem facere quibusdam ducimus. Vitae asperiores sed autem a. Itaque ratione explicabo tempora saepe maiores. Vitae earum nostrum incidunt. Aut est omnis inventore explicabo quis eum."
+

@@ -1,0 +1,43 @@
+- "Dellinger":
+    image: "/samples/dellinger-accueil.png" # Path to a file in the public/samples folder or to a remote and external file.
+    projets: null
+
+- "Dellinger-1":
+    image: "/samples/dellinger-mobile-on.png" # Path to a file in the public/samples folder or to a remote and external file.
+    projets: null
+
+- "Dellinger-2":
+    image: "/samples/dellinger-content.png"
+    projets: null
+
+- "Dellinger-3":
+    image: "/samples/dellinger-ipad.png"
+    projets: null
+
+- "Dellinger-4":
+    image: "/samples/dellinger-mobile-off.png"
+    projets: null
+
+- "VisitCaen":
+    image: "/samples/visitCaen-info.png" # Path to a file in the public/samples folder or to a remote and external file.
+    projets: null
+
+- "VisitCaen-1":
+    image: "/samples/visitCaen-recommendation.png" # Path to a file in the public/samples folder or to a remote and external file.
+    projets: null
+
+- "VisitCaen-2":
+    image: "/samples/visitCaen-accueil.png"
+    projets: null
+
+- "lesensdujeu":
+    image: "/samples/lesensdujeux-evenement.png" # Path to a file in the public/samples folder or to a remote and external file.
+    projets: null
+
+- "lesensdujeu-1":
+    image: "/samples/lesensdujeux-module.png" # Path to a file in the public/samples folder or to a remote and external file.
+    projets: null
+
+- "lesensdujeu-2":
+    image: "/samples/lesensdujeux-accueil.png"
+    projets: null

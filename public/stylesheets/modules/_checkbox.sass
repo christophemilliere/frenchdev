@@ -1,0 +1,80 @@
+//checkbox1
+$default-transition-duration : 0.3s
+
+.rounded-checkbox
+  input
+    display: none
+  span
+    background-color: #fff
+    border: 3px #bdc3c7 solid
+    width: 9px
+    height: 9px
+    display: inline-block
+    vertical-align: middle
+    +border-radius(8px)
+    position: relative
+
+  input:checked + span
+    border-color: #27ae60
+    &:after
+      content: ''
+      display: block
+      width: 5px
+      height: 5px
+      background-color: #27ae60
+      +border-radius(2px)
+      position: absolute
+      top: 2px
+      left: 2px
+
+.switch
+  input
+    display: none
+  width: 79px
+  vertical-align: middle
+  display: inline-block
+  overflow: hidden
+  height: 28px
+  +border-radius(30px)
+  -webkit-mask: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAAcCAIAAAHYS0UeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDoyODBGODQ3OUQ4RkMxMUUyQUU5MkZFNjE5RjQzQTc0MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDoyODBGODQ3QUQ4RkMxMUUyQUU5MkZFNjE5RjQzQTc0MyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjI4MEY4NDc3RDhGQzExRTJBRTkyRkU2MTlGNDNBNzQzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjI4MEY4NDc4RDhGQzExRTJBRTkyRkU2MTlGNDNBNzQzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+qoZr0QAAAglJREFUeNpi+P///79//xiwAaAUAy45KLCxscEnDTIBNwAIIJC0uLg4pnhpaSkBnUSAbdu24bEXIIBAmI2NjQxzQZqxupoUA8gFAAEE0gwEZWVlRKoHuhQYhRBdZNoMDCaKnEwgCRF0PxPZmtXU1CgKaSby/A1JeQABBI0qIDA1NWWgMQBaAbeOgT5WYlrP/P3799WrV9PT4mfPngEtZSAvJ1MIQJYeOHCA/haDLAUG9/Xr1+lpK9A6aOKCgL9//yorK9POPqDhQCvg1gEEYKeObgAEYSCALsAY3YJV2z3KJ4t0kn54RAP6r2divAHuJS10wUjvvdZ679bRhk40n6FDjQjChKEstbVGW627DzUzyS95iCJCVvnin29HVV8Q8WdLKTQS1rqIHHgnL9ffzB4l0T+tTYByzNiGYRCIogqpKZC8ASPgCnkFVoAhkWjdWKxgCtx4AXqqfCtSYkt2GeHA1RT3ON3/d3fwnI/r4cX/KggyR/57Yz2nHcex67pqGhQs584eQqCUVilKaB7QfWl/3Tk3EeKNtshYXiRA+owxruvaAu2yLGV2vSIBUsIYa4QWpERr3QitMWY7jLWwioAR88bmQFj3+r6vGFUIAcbDLOWcq0+xQASuyzl5nmf8RB31fJ+99vG4ugqjn6dpstZ67+FUKaWc820LCL3lnEsplVLDMBByfmd/AWS33ODlBcKrAAAAAElFTkSuQmCC")
+
+  .switch-container
+    display: inline-block
+    width: 130px
+    margin-left: -51px
+    height: 28px
+    +transition-duration
+  .on, .off
+    float: left
+    background-color: #2ecc71
+    width: 50%
+    height: 20px
+    padding: 4px 0
+    text-align: center
+    color: #fff
+    font-size: 15px
+    z-index: 1
+    position: relative
+  .on
+    +border-left-radius(30px)
+  .off
+    +border-right-radius(30px)
+    background-color: #e74c3c
+  .mid
+    display: inline-block
+    float: left
+    width: 20px
+    height: 20px
+    background-color: #fff
+    margin-left: -14px
+    margin-right: -14px
+    z-index: 2
+    position: relative
+    +border-radius(30px)
+    border: 4px #e74c3c solid
+  input:checked + .switch-container
+    margin: 0px
+    .mid
+      border-color: #2ecc71
+      +transition-duration
+

@@ -1,0 +1,25 @@
+.btn
+  +border-radius(5)
+  +adjust-font-size-to(14px, 2, $base-font-size)
+  display: block
+  border-bottom: 4 solid $base-xdark
+  background: $base-mid-light
+  color: $white
+  text-align: center
+  text-decoration: none
+
+.btn:hover
+  border-color: $second-xdark
+  background-color: $second-dark
+
+.btn:active
+  background-color: $second-dark
+  border-bottom: none
+  padding-bottom: 4px
+  +box-shadow(inset 2px 4px 0px $second-xdark )
+
+.form--btn
+  border: none
+  @extend .btn
+  +adjust-font-size-to(14px, 1, $base-font-size)
+ 

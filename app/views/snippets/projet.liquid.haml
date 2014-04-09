@@ -1,0 +1,15 @@
+.l-container--article
+  {% for projet in contents.projets %}
+  .container--article
+    %span.thumbnail.thumbnail-color-primary {{projet.labelSection}}
+    %img.article__picture{ :src => " {{projet.picture.url | resize: '140x100'}}", :title =>"{{projet.name}}"}
+    .article__title
+      %h2
+        {{projet.name}}
+    .article__description
+      %p
+        {{projet.description | truncate: 100}}
+    %a.btn{ :href => "/projet/{{projet._slug}}"} Voir le projet
+
+  {% endfor %}
+

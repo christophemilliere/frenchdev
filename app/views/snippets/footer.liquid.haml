@@ -1,0 +1,14 @@
+{% assign date = {{now | format_date: %y}} %}
+{% assign year = date |split:'/' %}
+%footer
+  .footer-container
+    .copyright Tous droits réservés Christophe Millière - &copy; 2013 - {{year.last}}
+
+    .social-networks
+      %ul
+        %li
+          %a.icon-fontawesome-webfont-25{:href => "https://github.com/christophemilliere", :target => "_blank"}
+        %li
+          %a.icon-fontawesome-webfont-24{:href => "https://www.facebook.com/milliere93?fref=ts", :target => "_blank"}
+        %li
+          %a.icon-fontawesome-webfont-21{:href => "http://fr.linkedin.com/pub/christophe-milliere/20/a05/893/", :target => "_blank"}

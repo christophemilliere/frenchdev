@@ -1,0 +1,594 @@
+# Logfile created on 2014-03-10 16:02:15 +0100 by logger.rb/1.2.8
+unknow content type "diapo"
+unknow content type "diapo"
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:161:in `require_mounter'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:59:in `push'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/cli.rb:192:in `push'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/command.rb:27:in `run'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/bin/wagon:9:in `<top (required)>'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `load'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `<main>'
+
+
+unknow content type "diapo"
+unknow content type "diapo"
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:161:in `require_mounter'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:59:in `push'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/cli.rb:192:in `push'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/command.rb:27:in `run'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/bin/wagon:9:in `<top (required)>'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `load'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `<main>'
+
+
+[0;31;49m      entries_custom_fields => base, n'est pas valide, 1, Label n'est pas disponible, 2, Label n'est pas disponible, 3, Label n'est pas disponible
+[0m
+      entries_custom_fields => base, n'est pas valide, 5, Class name doit être rempli(e), Class name présente un problème de sécurité
+[0;31;49m      entries_custom_fields => base, n'est pas valide, 1, Label n'est pas disponible, 2, Label n'est pas disponible, 3, Label n'est pas disponible
+[0m
+      entries_custom_fields => base, n'est pas valide, 5, Class name doit être rempli(e), Class name présente un problème de sécurité
+["/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_entry.rb:193:in `method_missing'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:72:in `block (2 levels) in build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `block in build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `tap'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:161:in `require_mounter'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:59:in `push'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/cli.rb:192:in `push'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/command.rb:27:in `run'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/bin/wagon:9:in `<top (required)>'", "/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `load'", "/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `<main>'"]
+The 'diapos' content type does not have a field named 'image1'.
+The 'diapos' content type does not have a field named 'image1'.
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:76:in `rescue in block (2 levels) in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:66:in `block (2 levels) in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `block in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:161:in `require_mounter'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:59:in `push'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/cli.rb:192:in `push'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/command.rb:27:in `run'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/bin/wagon:9:in `<top (required)>'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `load'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/bin/wagon:23:in `<main>'
+
+
+Started GET "/projet/dellinger" at 2014-03-10 16:11:59 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 31.0ms
+
+
+Started GET "/projet/fkfk" at 2014-03-10 16:12:00 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 10.2ms
+
+
+Started GET "/projet/fkfk" at 2014-03-10 16:12:00 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 5.6ms
+
+
+* Reloaded "pages", "snippets" at 2014-03-10 16:13:55 +0100
+* Reloaded "pages", "snippets" at 2014-03-10 16:14:03 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:14:05 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.5ms
+
+
+Started GET "/projet/fkfk" at 2014-03-10 16:14:06 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.7ms
+
+
+Started GET "/projet/fkfk" at 2014-03-10 16:14:09 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+Started GET "/projet/dellinger" at 2014-03-10 16:14:20 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.4ms
+
+
+Started GET "/projet/fkfk" at 2014-03-10 16:14:21 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+* Reloaded "pages", "snippets" at 2014-03-10 16:14:21 +0100
+Started GET "/projet/fkfk" at 2014-03-10 16:14:21 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/projet/dellinger" at 2014-03-10 16:14:26 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.2ms
+
+
+* Reloaded "pages", "snippets" at 2014-03-10 16:15:47 +0100
+* Reloaded "content_entries" at 2014-03-10 16:16:05 +0100
+* Reloaded "content_entries" at 2014-03-10 16:19:17 +0100
+* Reloaded "content_entries" at 2014-03-10 16:19:25 +0100
+* Reloaded "pages", "snippets" at 2014-03-10 16:22:23 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:22:31 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 95.5ms
+
+
+* Reloaded "pages", "snippets" at 2014-03-10 16:22:57 +0100
+* Reloaded "pages", "snippets" at 2014-03-10 16:22:58 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:23:00 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.5ms
+
+
+* Reloaded "pages", "snippets" at 2014-03-10 16:23:15 +0100
+Invalid page template (./app/views/pages/projet/content_type_template.liquid.haml): Illegal nesting: nesting within plain text is illegal.
+Started GET "/projet/dellinger" at 2014-03-10 16:23:18 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+* Reloaded "pages", "snippets" at 2014-03-10 16:23:24 +0100
+* Reloaded "pages", "snippets" at 2014-03-10 16:23:30 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:23:32 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.6ms
+
+
+* Reloaded "pages", "snippets" at 2014-03-10 16:23:48 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:23:49 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.4ms
+
+
+Started GET "/projet/dellinger" at 2014-03-10 16:24:45 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.8ms
+
+
+* Reloaded "pages", "snippets" at 2014-03-10 16:24:45 +0100
+Invalid page template (./app/views/pages/projet/content_type_template.liquid.haml): Illegal nesting: nesting within plain text is illegal.
+Started GET "/projet/dellinger" at 2014-03-10 16:24:49 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+* Reloaded "pages", "snippets" at 2014-03-10 16:24:56 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:24:57 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.5ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:24:57 +0100
+Detecting locale FR
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.3ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:24:58 +0100
+Detecting locale FR
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.5ms
+
+
+Started GET "/projet/dellinger" at 2014-03-10 16:26:03 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:26:03 +0100
+Detecting locale FR
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 6.6ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:26:03 +0100
+Detecting locale FR
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 2.1ms
+
+
+Started GET "/projet/dellinger" at 2014-03-10 16:26:07 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.7ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:26:08 +0100
+Detecting locale FR
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 1.9ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:26:08 +0100
+Detecting locale FR
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.9ms
+
+
+Started GET "/projet/dellinger" at 2014-03-10 16:26:23 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.5ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:26:23 +0100
+Detecting locale FR
+* Reloaded "pages", "snippets" at 2014-03-10 16:26:23 +0100
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 10.3ms
+
+
+Started GET "/projet/%7B%22url%22=%3E%22/samples/dellinger-accueil.png%22%7D" at 2014-03-10 16:26:24 +0100
+Detecting locale FR
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.2ms
+
+
+* Reloaded "content_entries" at 2014-03-10 16:30:16 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:30:20 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.9ms
+
+
+* Reloaded "content_entries" at 2014-03-10 16:34:46 +0100
+* Reloaded "content_entries" at 2014-03-10 16:35:57 +0100
+Started GET "/projet/dellinger" at 2014-03-10 16:36:00 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.1ms
+
+
+Started GET "/" at 2014-03-10 16:36:33 +0100
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+Started GET "/" at 2014-03-10 16:36:33 +0100
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 233.8ms
+
+
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 240.3ms
+
+
+Started GET "/projet/visite-caen" at 2014-03-10 16:36:36 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.9ms
+
+
+* Reloaded "content_entries" at 2014-03-10 16:37:03 +0100
+* Reloaded "content_entries" at 2014-03-10 16:37:46 +0100
+* Reloaded "content_entries" at 2014-03-10 16:38:52 +0100
+* Reloaded "content_entries" at 2014-03-10 16:38:54 +0100
+Started GET "/" at 2014-03-10 16:39:31 +0100
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 37.7ms
+
+
+Started GET "/projet/le-sens-du-jeu" at 2014-03-10 16:39:35 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.4ms
+
+
+* Reloaded "content_entries" at 2014-03-10 16:40:10 +0100
+Started GET "/" at 2014-03-10 16:41:00 +0100
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 37.0ms
+
+
+Started GET "/projet/le-sens-du-jeu" at 2014-03-10 16:41:04 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.7ms
+
+
+Started GET "/projet/visite-caen" at 2014-03-10 16:41:20 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.6ms
+
+
+Started GET "/contact" at 2014-03-10 16:41:26 +0100
+Detecting locale FR
+Found page "Contact" [contact]
+* Reloaded "content_entries" at 2014-03-10 16:42:27 +0100
+["/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_entry.rb:193:in `method_missing'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:72:in `block (2 levels) in build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `block in build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `tap'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter.rb:97:in `with_locale'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/listen.rb:39:in `block in apply'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'"]
+The 'projets' content type does not have a field named 'listTechno'.
+The 'projets' content type does not have a field named 'listTechno'.
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:76:in `rescue in block (2 levels) in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:66:in `block (2 levels) in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `block in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter.rb:97:in `with_locale'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_entries" at 2014-03-10 16:42:53 +0100
+["/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_entry.rb:193:in `method_missing'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:72:in `block (2 levels) in build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `block in build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `tap'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `build_entry'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter.rb:97:in `with_locale'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/listen.rb:39:in `block in apply'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'", "/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'"]
+The 'projets' content type does not have a field named 'listTechno'.
+The 'projets' content type does not have a field named 'listTechno'.
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:76:in `rescue in block (2 levels) in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:66:in `block (2 levels) in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:65:in `block in build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `tap'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/models/content_type.rb:60:in `build_entry'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter.rb:97:in `with_locale'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/devweb/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-03-10 16:43:33 +0100
+* Reloaded "content_types", "content_entries" at 2014-03-10 16:43:35 +0100
+* Reloaded "pages", "snippets" at 2014-03-10 16:44:54 +0100
+Started GET "/" at 2014-03-10 16:44:58 +0100
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 37.2ms
+
+
+Started GET "/projet/le-sens-du-jeu" at 2014-03-10 16:44:59 +0100
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 7.4ms
+
+
+Started GET "/" at 2014-03-10 16:47:35 +0100
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 38.2ms
+
+
+Started GET "/contact" at 2014-03-10 16:47:37 +0100
+Detecting locale FR
+Found page "Contact" [contact]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.3ms
+
+
+Started GET "/cv" at 2014-03-10 16:47:55 +0100
+Detecting locale FR
+Found page "Cv" [cv]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 3.1ms
+
+
+Started GET "/" at 2014-03-10 16:50:15 +0100
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 108.7ms
+
+
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-03-10 16:52:39 +0100
+Started GET "/" at 2014-04-09 21:55:49 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 287.3ms
+
+
+Started GET "/cv" at 2014-04-09 21:58:43 +0200
+Detecting locale FR
+Found page "Cv" [cv]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 127.9ms
+
+
+Started GET "/" at 2014-04-09 21:58:55 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 625.5ms
+
+
+Started GET "/" at 2014-04-09 21:58:56 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 5.4ms
+
+

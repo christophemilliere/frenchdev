@@ -1,0 +1,16 @@
+# TODO: explain it
+name: website-new
+
+# TODO: explain it
+# subdomain: sample
+
+# TODO: explain it
+# domains: [www.example.com, example.com]
+
+# TODO: explain it
+locales: [fr]
+
+# TODO: explain it
+seo_title: website-new
+meta_keywords: "some meta keywords"
+meta_description: "some meta description"

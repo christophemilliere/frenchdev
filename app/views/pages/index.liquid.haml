@@ -1,0 +1,42 @@
+---
+title: Home page
+published: true
+---
+%html.no-js{:lang =>"fr"}
+  %head
+    %title {{ site.name }}
+    %meta{:charset=>"utf-8"}
+    %meta{ "http-equiv" => "X-UA-Compatible", :content => "IE=edge,chrome=1" }
+    %meta{ :name => "viewport", :content => "initial-scale=1, width=device-width" }
+    {{'main' | stylesheet_tag:'screen' }}
+    {{'owl.carousel' | stylesheet_tag:'screen' }}
+    {{'owl.theme' | stylesheet_tag:'screen' }}
+    {{'owl.transitions' | stylesheet_tag:'screen' }}
+    {{'jquery' | javascript_tag }}
+    {{'owl.carousel.min' | javascript_tag }}
+    -# {{'developement/debug-grid' | javascript_tag }}
+    {{'main' | javascript_tag }}
+    {{'owl' | javascript_tag }}
+
+  -# #grid-debug Toggle grid
+  
+  %body
+    %header
+      .l-container
+        %a.logo{ :href => "/"} FRENCH-DEV
+        %a.button-menu#button-open.icon-fontawesome-webfont-7{ href: "#"}
+        %nav
+          .nav-menu
+            %ul
+              %li
+                -# %a{href: "/contact"} contact
+                %a{href: "mailto:christophemilliere93@gmail.com"} me contacter
+              %li
+                %a{href: "/cv"} Cv
+
+    {% block 'main' %}
+    .l-container
+      {% include 'projet' %}
+    {% endblock %}
+    {% include 'footer' %}
+

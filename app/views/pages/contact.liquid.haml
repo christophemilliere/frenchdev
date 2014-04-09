@@ -1,0 +1,64 @@
+---
+title: Contact
+
+# true if the page is included in the menu
+listed: true
+
+# true if the page is published
+published: true
+
+# position among sibling pages
+# position: 1
+
+# sets a redirection to the given url (301)
+# redirect_url: "<url to a page or to a remote url>"
+
+# content type that this page is templatizing
+# content_type: "<slug of one of the content types>"
+
+# editable_elements:
+#   'some_block/some_slug': "<text>"
+#   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
+---
+{% extends parent %}
+
+{% block main %}
+.alernative-background-color
+  .l-container
+    .headline-contact
+      %h1
+        Contact
+.l-container
+  .picture-map
+    %img{:src => "../images/map.png"}
+
+.l-container
+  %form#contact-form{ :action =>"", :method => "POST" }
+    .l-input
+      %label Nom
+      %input{ :type => "text", :name => "content[name]", :value => "{{message.name}}" , :placeholder => "Votre Nom", :required => "required" }
+    .clear
+
+    .l-input
+      %label Email
+      %input{ :type => "email", :name => "content[email]", :value => "{{message.email}}", :placeholder => "Votre Email", :required => "required" }
+    .clear
+
+    .l-select
+      %label Choix
+      %select{ :name => "content[demande]", :required => "required" }
+        {% for choice in contents.messages.demande_options %}
+        %option{ :value => "{{choice}}"} {{choice}}
+        {% endfor %}
+
+    .clear
+    .l-textarea
+      %label Sujet
+      %textarea{ :required => "required" }
+    .clear
+    .l-form-btn
+      %input.form--btn{ :type => "submit"}
+
+
+
+{% endblock %}

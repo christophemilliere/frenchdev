@@ -1,0 +1,53 @@
+.cv_Title
+  +adjust-font-size-to(25px, 2, $base-font-size)
+  text-align: center
+.language
+  +clearfix
+  p
+    margin: 0
+    padding: 0
+    float: left
+
+.title_theme
+  +adjust-font-size-to(23px, 2, $base-font-size)
+  border-top: 1px $base-dark solid
+  font-family: "winBold"
+  color: $base-dark
+  text-align: center
+
+.tech
+  p
+    font-family: "HelveticaNeue-Light"
+.cv_content
+  +adjust-font-size-to(16px, 2, $base-font-size)
+
+.exprience-date
+  +adjust-font-size-to(15px, 2, $base-font-size)
+  font-family: "winBold"
+  color: $base-dark
+  +at-breakpoint($tablet)
+    +span-columns(3,8)
+  +at-breakpoint($computer)
+    +span-columns(5,12)
+  font-weight: bold
+
+.experience-desc
+  +at-breakpoint($tablet)
+    +span-columns(3,8)
+  +at-breakpoint($computer)
+    +span-columns(5,12)
+  p
+    +adjust-font-size-to(15px, 1, $base-font-size)
+    font-family: "winBold"
+    color: $base-dark
+    font-weight: bold
+    margin: 0
+    padding: 0
+.paragah
+  +adjust-font-size-to(13px, 1, $base-font-size)
+  font-family: "HelveticaNeue-Light"
+  color: $color-text-xlight
+
+.espacement
+  +padding-leader(0.5)
+  +margin-leader(1)

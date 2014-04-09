@@ -1,0 +1,83 @@
+.clear
+  clear: both
+.center
+  text-align: center
+  
+.l-container
+  +container
+  +at-breakpoint($tablet)
+    +set-container-width(8)
+    // +susy-grid-background
+
+  +at-breakpoint($computer)
+    +set-container-width(12)
+    // +susy-grid-background
+
+  .debug-grid &
+    +susy-grid-background
+
+    +at-breakpoint($tablet)
+      +set-container-width(8)
+      +susy-grid-background
+
+    +at-breakpoint($computer)
+      +set-container-width(12)
+      +susy-grid-background
+
+.container--article
+  margin: 24px 0
+  +at-breakpoint($tablet)
+    +span-columns(3,8)
+
+  +at-breakpoint($computer)
+    +span-columns(3,12)
+
+.container--article-projet
+  +at-breakpoint($tablet)
+    +span-columns(8,8)
+
+  +at-breakpoint($computer)
+    +span-columns(12,12)
+
+.l-container--article
+  +at-breakpoint($tablet)
+
+
+  +at-breakpoint($computer)
+    .container--article:nth-child(4n)
+      margin-right: 0
+
+.alernative-background-color
+  background: $second-bg-color
+
+
+.l-input
+  +at-breakpoint($tablet)
+    +span-columns(3,8)
+
+  +at-breakpoint($computer)
+    +span-columns(3,12)
+
+.l-textarea
+  +at-breakpoint($tablet)
+    +span-columns(4,8)
+
+  +at-breakpoint($computer)
+    +span-columns(4,12)
+
+.l-form-btn
+  +at-breakpoint($tablet)
+    +span-columns(2,8)
+
+  +at-breakpoint($computer)
+    +span-columns(2,12)
+
+.l-select
+  +at-breakpoint($tablet)
+    +span-columns(3,8)
+
+  +at-breakpoint($tablet)
+    +span-columns(3,12)
+
+.bg-white
+  background: #fff

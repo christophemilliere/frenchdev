@@ -1,0 +1,67 @@
+header
+  background:  url(../images/bg_header.png)
+  background-position: left bottom
+  background-repeat: repeat-x
+
+.logo
+  +span-columns(2,4)
+  +adjust-font-size-to(18px, 2.6, $base-font-size)
+  padding: 9px 0
+  display: block
+  color: $white
+  text-decoration: none
+
+  +at-breakpoint($tablet)
+    +span-columns(3,8)
+    +adjust-font-size-to(30px, 2.6, $base-font-size)
+  +at-breakpoint($computer)
+    +span-columns(6,12)
+
+nav
+  background-color: $base-darklight
+  position: absolute
+  top: 80px
+  width: 100%
+  left: 0
+  padding-left: 17px
+
+  +at-breakpoint($tablet)
+    +span-columns(4 omega,8)
+    padding-left: 0
+    background-color: transparent
+    top: 0
+    position: inherit !important
+    text-align: right
+
+  +at-breakpoint($computer)
+    +span-columns(6 omega,12)
+
+.nav-menu
+  display:  none
+  ul
+    li
+      display: inline-block
+      padding: 0 10px
+      a
+        color: $white
+        letter-spacing: 2px
+        +adjust-font-size-to($base-font-size, 4 )
+  &.toggled
+    display: block
+
+  +at-breakpoint($tablet)
+    ul 
+      li
+        a
+          +adjust-font-size-to(18px, 3.3, $base-font-size )
+    display: block
+
+.button-menu
+  +span-columns(2 omega, 4)
+  text-align: right
+  font-size: 27px
+  padding: 25px 0 0 0
+  display: block
+  color: $white
+  +at-breakpoint($tablet)
+    display: none

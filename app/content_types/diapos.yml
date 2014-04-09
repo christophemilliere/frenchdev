@@ -1,0 +1,40 @@
+name: Diaporama
+slug: diapos
+description: diaporama
+label_field_name: title
+order_by: manually # default: manually, also available: created_at or any field slug
+
+# Order direction
+# order_direction: asc # default: asc, also available: desc
+
+# Display entries grouped by <field> in the backoffice
+# group_by: <your field>
+
+# Activate public 'create' API (e.g for a contact form)
+# public_submission_enabled: false
+
+# Emails to be notified on new entries using the public API
+# public_submission_accounts: ['john@acme.net']
+
+# Describe each field. The name shoud always be an underscored string
+fields: 
+- title: # Name of the field
+    label: Titre
+    type: string
+    required: true
+    hint: Titre pour l'option
+    # localized: false
+
+- image: # Name of the field
+    label: image
+    type: file
+    required: false
+    hint: image diapo
+    localized: true
+
+- projets:
+    label: projets
+    type: many_to_many
+    target: diapos
+    ui_enabled: true
+    hint: Ne pas toucher 

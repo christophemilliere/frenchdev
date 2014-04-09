@@ -1,0 +1,81 @@
+# Public name of this content type
+name: Projets
+
+# TODO: explain
+slug: projets
+
+# Explanation for the backoffice
+description: A description of the content type for the editors
+
+# Default field (e.g title)
+label_field_name: name
+
+# Order of entries
+order_by: manually # default: manually, also available: created_at or any field slug
+
+# Order direction
+# order_direction: asc # default: asc, also available: desc
+
+# Display entries grouped by <field> in the backoffice
+# group_by: <your field>
+
+# Activate public 'create' API (e.g for a contact form)
+# public_submission_enabled: false
+
+# Emails to be notified on new entries using the public API
+# public_submission_accounts: ['john@acme.net']
+
+# Describe each field. The name shoud always be an underscored string
+fields: 
+- name: # Name of the field
+    label: Name
+    type: string
+    required: true
+    hint: A description of the field for the editors
+    localized: false
+
+- picture: # Name of the field
+    label: Picture
+    type: file
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
+- description: # Name of the field
+    label: Description
+    type: text
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+    # Enable or not the RTE [html|text]
+    # text_formatting: html
+
+- link: # Name of the field
+    label: Link
+    type: string
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
+- labelSection: # Name of the field
+    label: Labelsection
+    type: string
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
+- listTechno: # Name of the field
+    label: Liste des techno utilisé
+    type: string
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
+- diapos:
+    label: diapos
+    type: many_to_many
+    target: diapos
+    inverse_of: diapos
+    ui_enabled: true
+    hint: Ajouter des options pour l'évènement
+

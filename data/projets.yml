@@ -1,0 +1,32 @@
+- "Dellinger":
+    picture: "/samples/dellinger-cover.png" # Path to a file in the public/samples folder or to a remote and external file.
+    description: "Site responsive pour un orthodentiste afin de présenter ses services. Site réalisé avec Locomotivecms compass, susy et totalement responsive"
+    link: "http://cabinet-dellinger.herokuapp.com"
+    labelSection: "site web-responsive"
+    diapos: ["Dellinger","Dellinger-1","Dellinger-2","Dellinger-3","Dellinger-4"]
+    listTechno: "Locomotivecms, sass et compass"
+
+# - "Sorties à Paris":
+#     picture: "/samples/large.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+#     description: "La première application que j'ai réalisée de A-Z, elle propose des sorties sur Paris via l'api de Paris. Vous y trouverez les thèmes tels que exposition, théâtre etc..."
+#     link: null
+#     labelSection: "Application iPhone"
+      # diapos: ["sortiraparis","sortiraparis-1","sortiraparis-2","sortiraparis-3","sortiraparis-4"]
+      # listTechno: "IOS native"
+
+- "Le sens du jeu":
+    picture: "/samples/lesensdujeux-cover.png" # Path to a file in the public/samples folder or to a remote and external file.
+    description: "Conception du site corporate dans le cadre du lancement de l’organisme de formation le Sens du Jeu."
+    link: "http://le-sens-du-jeu.herokuapp.com"
+    labelSection: "site web"
+    diapos: ["lesensdujeu","lesensdujeu-1","lesensdujeu-2"]
+    listTechno: "Locomotivecms, sass et compass"
+
+- "Visite caen":
+    picture: "/samples/visitCaen-cover.png" # Path to a file in the public/samples folder or to a remote and external file.
+    description: "Création d’une application destinée à promouvoir le tourisme et les activités culturelles à Caen."
+    link: "Lien apple store"
+    labelSection: "Application iPhone"
+    diapos: ["VisitCaen","VisitCaen-1","VisitCaen-2"]
+    listTechno: "RubyMotion"
+
