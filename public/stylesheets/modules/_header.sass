@@ -1,14 +1,15 @@
 header
-  background:  url(../images/bg_header.png)
+  background: #404852
   background-position: left bottom
   background-repeat: repeat-x
 
 .logo
+  +title-font
   +span-columns(2,4)
   +adjust-font-size-to(18px, 2.6, $base-font-size)
   padding: 9px 0
   display: block
-  color: $white
+  color: #78ab4e
   text-decoration: none
 
   +at-breakpoint($tablet)
@@ -43,14 +44,19 @@ nav
       display: inline-block
       padding: 0 10px
       a
-        color: $white
-        letter-spacing: 2px
         +adjust-font-size-to($base-font-size, 4 )
+        +transition-duration(250ms)
+        +transition-timing-function(ease-in)
+        color: #6d7a8b
+        letter-spacing: 2px
+        text-decoration: none
+        &:hover
+          color: $white
   &.toggled
     display: block
 
   +at-breakpoint($tablet)
-    ul 
+    ul
       li
         a
           +adjust-font-size-to(18px, 3.3, $base-font-size )

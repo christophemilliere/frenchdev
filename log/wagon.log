@@ -592,3 +592,261 @@ Found page "Home page" [index]
 Completed 200 OK in 5.4ms
 
 
+Started GET "/" at 2014-08-01 13:09:47 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 198.7ms
+
+
+Started GET "/" at 2014-08-01 13:11:05 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 5.9ms
+
+
+* Reloaded "pages", "snippets" at 2014-08-01 13:11:05 +0200
+* Reloaded "pages", "snippets" at 2014-08-01 13:11:14 +0200
+Started GET "/" at 2014-08-01 13:11:16 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 5.0ms
+
+
+* Reloaded "pages", "snippets" at 2014-08-01 13:12:13 +0200
+* Reloaded "pages", "snippets" at 2014-08-01 13:12:14 +0200
+Started GET "/" at 2014-08-01 13:12:17 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 6.2ms
+
+
+* Reloaded "pages", "snippets" at 2014-08-01 13:12:41 +0200
+Started GET "/" at 2014-08-01 13:12:41 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 6.7ms
+
+
+Started GET "/" at 2014-08-01 13:12:44 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 5.6ms
+
+
+* Reloaded "pages", "snippets" at 2014-08-01 13:13:04 +0200
+Started GET "/" at 2014-08-01 18:35:45 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 27.4ms
+
+
+Started GET "/" at 2015-04-23 09:34:19 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 180.7ms
+
+
+Started GET "/projet/le-sens-du-jeu" at 2015-04-23 09:34:26 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.9ms
+
+
+Started GET "/" at 2015-04-23 09:45:06 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 45.2ms
+
+
+Started GET "/projet/visite-caen" at 2015-04-23 09:45:15 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.4ms
+
+
+Started GET "/projet/visite-caen" at 2015-04-23 09:46:01 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.2ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-23 09:47:49 +0200
+Started GET "/projet/visite-caen" at 2015-04-23 09:47:50 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.8ms
+
+
+Started GET "/projet/visite-caen" at 2015-04-23 09:48:18 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.6ms
+
+
+Started GET "/" at 2015-04-23 09:59:51 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 6.4ms
+
+
+* Reloaded "content_entries" at 2015-04-23 10:00:25 +0200
+Started GET "/" at 2015-04-23 10:00:25 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 6.4ms
+
+
+* Reloaded "content_entries" at 2015-04-23 10:00:43 +0200
+Started GET "/" at 2015-04-23 10:00:43 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 7.3ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-23 10:01:48 +0200
+Started GET "/" at 2015-04-23 10:01:49 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 7.0ms
+
+
+* Reloaded "pages", "snippets" at 2015-04-23 10:02:11 +0200
+Started GET "/projet/visite-caen-1" at 2015-04-23 10:02:14 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 5.0ms
+
+
+(<unknown>): did not find expected key while parsing a block mapping at line 2 column 5
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:161:in `require_mounter'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/cli.rb:175:in `serve'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor/command.rb:27:in `run'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/bin/wagon:9:in `<top (required)>'
+	/Users/devweb/.rbenv/versions/2.1.1/bin/wagon:23:in `load'
+	/Users/devweb/.rbenv/versions/2.1.1/bin/wagon:23:in `<main>'
+
+
+(<unknown>): did not find expected key while parsing a block mapping at line 2 column 5
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_mounter-1.2.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:161:in `require_mounter'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/lib/locomotive/wagon/cli.rb:175:in `serve'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor/command.rb:27:in `run'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor/invocation.rb:120:in `invoke_command'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor.rb:363:in `dispatch'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/thor-0.18.1/lib/thor/base.rb:439:in `start'
+	/Users/devweb/.rbenv/versions/2.1.1/lib/ruby/gems/2.1.0/gems/locomotivecms_wagon-1.2.2/bin/wagon:9:in `<top (required)>'
+	/Users/devweb/.rbenv/versions/2.1.1/bin/wagon:23:in `load'
+	/Users/devweb/.rbenv/versions/2.1.1/bin/wagon:23:in `<main>'
+
+
+Started GET "/projet/visite-caen-1" at 2015-04-23 10:15:00 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+Page not found
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 51.9ms
+
+
+Started GET "/" at 2015-04-23 10:15:10 +0200
+Detecting locale FR
+Found page "Home page" [index]
+  Rendered snippet projet
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 89.8ms
+
+
+Started GET "/projet/sorties-a-paris" at 2015-04-23 10:15:25 +0200
+Detecting locale FR
+Found page "Content type template" [projet/*]
+  Rendered snippet footer
+  Rendered liquid page template
+Completed 200 OK in 4.3ms
+
+

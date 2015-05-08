@@ -19,18 +19,20 @@ published: true
     {{'owl' | javascript_tag }}
 
   -# #grid-debug Toggle grid
-  
+
   %body
     %header
       .l-container
-        %a.logo{ :href => "/"} FRENCH-DEV
+        %a.logo{ :href => "/"} FrenchDev
         %a.button-menu#button-open.icon-fontawesome-webfont-7{ href: "#"}
         %nav
           .nav-menu
             %ul
               %li
+                %a{href: "/"} Home
+              %li
                 -# %a{href: "/contact"} contact
-                %a{href: "mailto:christophemilliere93@gmail.com"} me contacter
+                %a{href: "mailto:christophemilliere93@gmail.com"} Me contacter
               %li
                 %a{href: "/cv"} Cv
 
@@ -39,4 +41,3 @@ published: true
       {% include 'projet' %}
     {% endblock %}
     {% include 'footer' %}
-
